@@ -1,5 +1,7 @@
 # 🌌 Physics-Inspired Coherent AI System
 
+![TheCoherenceCat](https://media.licdn.com/dms/image/v2/D4E22AQG785Lvveetkg/feedshare-shrink_800/B4EZXKlRPaG0Ao-/0/1742860522790?e=1746057600&v=beta&t=iyiSDTpfLRgeT5AhT9369p44C_pLE1hMuEkcmWnl-6I)
+
 READ THE PAPER PLEASE
 
 https://github.com/axelnissim-personal/coherence/blob/main/coherence_paper.md
